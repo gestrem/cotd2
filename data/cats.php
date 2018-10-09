@@ -12,7 +12,7 @@ Date: 2016
 
 $_SESSION['item'] = array();
 
-$_SESSION['item'][0]['name'] = 'Evry';
+$_SESSION['item'][0]['name'] = 'TITI';
 $_SESSION['item'][0]['rank'] = 1;
 $_SESSION['item'][0]['caption'] = 'Evry Cat';
 $_SESSION['item'][0]['trivia'] = "<p>My name is Le Cornu and I live in Adelaide. My dad plays for the Adelaide Crows. He has a big mullet which I snuggle into when he is asleep.</p> <p style='color:silver;font-size:80%;font-style:italic'>Like me and we can watch the footie together. </p>";
